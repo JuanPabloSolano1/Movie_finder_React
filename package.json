@@ -1,0 +1,27 @@
+{
+  "name": "react-sandbox",
+  "version": "1.0.0",
+  "description": "A sandbox in which you don't have to delete the Hello file, styles object, and such.",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.9.7",
+    "@material-ui/icons": "4.9.1",
+    "bootstrap": "4.4.1",
+    "react": "16.8.4",
+    "react-bootstrap": "1.0.0-beta.3 - next",
+    "react-circular-progressbar": "2.0.3",
+    "react-dom": "16.8.4",
+    "react-icons": "3.9.0",
+    "react-scripts": "1.1.0",
+    "reactstrap": "8.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

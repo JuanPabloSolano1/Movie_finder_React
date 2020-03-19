@@ -1,0 +1,85 @@
+* {
+  -webkit-font-smoothing: antialiased;
+}
+
+input {
+  width: 400px;
+  height: 40px;
+  border-radius: 25px;
+  outline: none;
+  padding-left: 10px;
+  margin-top: 20px !important;
+}
+.form {
+  margin-bottom: 50px;
+  margin-left: 30px;
+}
+#rating {
+  position: absolute;
+  padding-top: 300px;
+  font-size: 80px;
+  margin-left: 42px;
+}
+.image_text {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  background-color: "grey";
+}
+
+#movie_image {
+  margin-left: 30px;
+}
+
+#synopsys {
+  width: 450px;
+  margin-left: 100px;
+  font-family: "Sen", sans-serif;
+  font-size: 21px;
+}
+#title {
+  text-align: center;
+  margin-bottom: 53px;
+  font-family: "Sen", sans-serif;
+  margin-top: 100px;
+}
+
+.container {
+  height: 500px;
+}
+
+.CircularProgressbar .CircularProgressbar-path {
+  stroke: #28a745 !important;
+}
+
+.progress {
+  width: 226px;
+  background-color: white;
+  position: absolute;
+  margin-left: 70px;
+  /* padding-top: 200px; */
+  margin-top: 300px;
+}
+
+.CircularProgressbar .CircularProgressbar-text {
+  fill: #495057 !important;
+}
+
+.banner {
+  background-color: black;
+  height: 80px;
+}
+
+svg.MuiSvgIcon-root {
+  color: #e37755;
+  font-size: 40px;
+  margin-left: 10px;
+  padding-top: -11px;
+  margin-top: -7px;
+}
+#release_date {
+  position: absolute;
+  margin-top: 363px;
+  margin-left: 300px;
+  font-weight: bold;
+}
